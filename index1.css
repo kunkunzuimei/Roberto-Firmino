@@ -1,0 +1,108 @@
+h5{
+    text-indent:30px;
+}
+.headerdiv,.picturediv{
+    margin: auto;
+}
+.headerdiv{
+    width: 1150px;
+    height:300px;
+}
+.headerleft{
+    float: left;
+    width: 790px;
+    height: 300px;
+    margin-left: 50px;
+}
+.muludiv{
+    width: 790px;
+    height:150px;
+    margin-left: 140px;
+    float: left;
+}
+.muludiv span{
+margin-left: 40px;
+}
+.muludiv span a{
+    text-decoration: none;
+    color:#414141;
+}
+.zqjldiv{
+     width: 790px;
+     height:220px;
+     float: left;
+     margin-left: 140px;
+ }
+.zqjlleftdiv{
+    width: 550px;
+    height: 220px;
+    float: left;
+}
+.zqjlleftdiv p{
+    text-indent:30px;
+}
+.zqjlrigthdiv img{
+    width: 220px;
+    height: 123px;
+    float: right;
+    margin-right: 10px;
+    margin-top:60px;
+}
+
+.ydsydiv{
+    width: 790px;
+    height:1700px;
+    float: left;
+    margin-left: 140px;
+}
+.ydsyleftdiv{
+    width: 550px;
+    height: 1700px;
+    float: left;
+}
+.ydsyleftdiv p{
+    text-indent:30px;
+}
+.ydsyrigthdiv img{
+    width: 220px;
+    height: 123px;
+    float: right;
+    margin-right: 10px;
+    margin-top:190px;
+}
+
+.cwshdiv{
+    width: 790px;
+    height:100px;
+    float: left;
+    margin-left: 140px;
+}
+
+.hjjldiv{
+    width: 790px;
+    height:100px;
+    float: left;
+    margin-left: 140px;
+}
+
+.shpjdiv{
+    width: 790px;
+    height:330px;
+    float: left;
+    margin-left: 140px;
+}
+.shpjleftdiv{
+    width: 550px;
+    height: 330px;
+    float: left;
+}
+.shpjleftdiv p{
+    text-indent:30px;
+}
+.shpjrigthdiv img{
+    width: 220px;
+    height: 123px;
+    float: right;
+    margin-right: 10px;
+    margin-top:80px;
+}
